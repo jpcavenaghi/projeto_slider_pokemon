@@ -1,7 +1,7 @@
-@media (max-widht: 620px) {
-    .pokemon-slider{
-       padding: 0 15px;
-       gap: 10px;
+@media(max-width:620px) {
+    .pokemon-slider {
+        padding: 0 15px;
+        gap: 10px;
     }
 
     .btn-seta {
@@ -19,7 +19,7 @@
 
     .cartao .imagem-pokemon {
         max-height: 230px;
-        
+        padding: 20px;
     }
 
     .cartao .info .nome {
